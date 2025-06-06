@@ -1,0 +1,21 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "b68fa51c-c03c-4c0a-a9c1-8c357d67d7ca")
+	(paper "A4")
+	(title_block
+		(title "openkeebs")
+		(date "2025-06-05")
+		(rev "v1.0")
+		(company "@dropalltables")
+		(comment 1 " low profile keeb")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
